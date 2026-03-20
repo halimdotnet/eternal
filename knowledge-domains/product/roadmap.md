@@ -20,6 +20,22 @@ A roadmap serves as a strategic communication instrument that fulfills several p
 
 ![alt text](/.assets/roadmap/roadmap_external_decision_functions.svg)
 
+### Internal
+- **Inspiration** - Membangun enthusiasm tim dengan menggambarkan masa depan yang konkret dan bernilai
+- **Alignment** — Menyelaraskan seluruh fungsi menuju satu arah yang sama
+- **Prioritization** - Memberikan kerangka yang objektif untuk memutuskan apa yang dikerjakan sekarang dan apa yang ditunda
+- **IKEA Effect** - Melibatkan stakeholder dalam proses pembentukan roadmap meningkatkan rasa kepemilikan dan buy-in
+
+### External
+- **Customer Validation** - Roadmap berfungsi sebagai prototype dari strategi produk yang bisa diuji ke customer sebelum dieksekusi
+- **Expectation Setting** - Memberikan gambaran arah produk kepada customer dan partner tanpa harus membuat komitmen yang rigid
+- **Sales Enablement** - Membantu tim sales menjawab pertanyaan tentang arah produk secara terinformasi
+
+### Decision-Making Tool
+- Apakah inisiatif ini sejalan dengan visi produk?
+- Apakah ini lebih penting dari yang sudah ada di roadmap sekarang?
+- Di mana trade-off terbaik antara value yang dihasilkan vs effort yang dibutuhkan?
+
 ## C. Roadmap Requirements
 
 ![alt text](/.assets/roadmap/roadmap_requirements.svg)
